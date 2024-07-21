@@ -13,7 +13,7 @@ This repository contains a Python script that implements a machine learning mode
 5. [Model Training](#model-training)
 6. [Results](#results)
 7. [Contributing](#contributing)
-8. [License](#license)
+8. [Contact](#contact)
 
 ## Introduction
 
